@@ -1,4 +1,4 @@
-[![Banner](https://raw.githubusercontent.com/cszach/cszach/master/img/banner.webp)](https://github.com/nvluongg)
+
 # Hi, I'm Luong 👋
 
 I'm an IT student majoring in **Computer Networks and Data Communications** at the **University of Engineering and Technology, VNU Hanoi**.
